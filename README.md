@@ -32,3 +32,5 @@ This is the code for the paper "Semi-supervised Counting of Grape Berries in the
   
   Notice the path of all files in these codes, you should modify them to suit your condition.
   
+## Optimal model in this paper:
+  [BaiduDisk](https://pan.baidu.com/s/1OfzuWPKi2SuhqL0cXFvuSw?pwd=g7en password/code：g7en) 
