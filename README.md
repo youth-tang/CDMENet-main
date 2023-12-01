@@ -1,5 +1,5 @@
 # CDMENet-main
-This is the code for the paper "Semi-supervised Counting of Grape Berries in the Field Based on Density Mutual Exclusion" 
+This is the code for the paper "Semi-supervised Counting of Grape Berries in the Field Based on Density Mutual Exclusion" .
 ## Prepare 
   1.1 Datasets can Found in: 
   
